@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x417e43A471F6503D5671697f0f32948a3B20aE70",
+  "SCAN_LINK": "https://etherscan.io/address/0x417e43a471f6503d5671697f0f32948a3b20ae70",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": "1"
+  },
+  "NFT_NAME": "Crypto Jeets",
+  "SYMBOL": "CJs",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
