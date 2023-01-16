@@ -1,0 +1,30 @@
+{
+  "name": "TOSA COLLECTION #35",
+  "description": "3D ART CHARACTER OF TOSA",
+  "image": "REPLACE/35.png",
+  "edition": 35,
+  "date": 1673631131114,
+  "attributes": [
+    {
+      "trait_type": "BAGROUND",
+      "value": "GRAY"
+    },
+    {
+      "trait_type": "BASE SKIN",
+      "value": "WHITE"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "WINTER JACKET"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "HAT"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "STEAMPUNK GLASSES"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

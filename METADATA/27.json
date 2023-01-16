@@ -1,0 +1,30 @@
+{
+  "name": "TOSA COLLECTION #27",
+  "description": "3D ART CHARACTER OF TOSA",
+  "image": "REPLACE/27.png",
+  "edition": 27,
+  "date": 1673631128638,
+  "attributes": [
+    {
+      "trait_type": "BAGROUND",
+      "value": "LIGHT BLUE"
+    },
+    {
+      "trait_type": "BASE SKIN",
+      "value": "Black"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "RED"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "HAT V2"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "PIXEL"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

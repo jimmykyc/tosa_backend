@@ -1,0 +1,30 @@
+{
+  "name": "TOSA COLLECTION #59",
+  "description": "3D ART CHARACTER OF TOSA",
+  "image": "REPLACE/59.png",
+  "edition": 59,
+  "date": 1673631140354,
+  "attributes": [
+    {
+      "trait_type": "BAGROUND",
+      "value": "LIGHT BLUE"
+    },
+    {
+      "trait_type": "BASE SKIN",
+      "value": "Black"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "WHITE SPORT JACKET"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "COWBOY HAT"
+    },
+    {
+      "trait_type": "GLASSES",
+      "value": "NORMAL"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
