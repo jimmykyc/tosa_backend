@@ -1,0 +1,3002 @@
+[
+  {
+    "name": "TOSA COLLECTION #1",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/1.png",
+    "edition": 1,
+    "date": 1673631118655,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "GOLDEN CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #2",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/2.png",
+    "edition": 2,
+    "date": 1673631119079,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #3",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/3.png",
+    "edition": 3,
+    "date": 1673631119592,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "GOLDEN CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #4",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/4.png",
+    "edition": 4,
+    "date": 1673631120130,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #5",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/5.png",
+    "edition": 5,
+    "date": 1673631120537,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #6",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/6.png",
+    "edition": 6,
+    "date": 1673631120855,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #7",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/7.png",
+    "edition": 7,
+    "date": 1673631121144,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #8",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/8.png",
+    "edition": 8,
+    "date": 1673631121589,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #9",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/9.png",
+    "edition": 9,
+    "date": 1673631121953,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #10",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/10.png",
+    "edition": 10,
+    "date": 1673631122303,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #11",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/11.png",
+    "edition": 11,
+    "date": 1673631122695,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #12",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/12.png",
+    "edition": 12,
+    "date": 1673631123010,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #13",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/13.png",
+    "edition": 13,
+    "date": 1673631123381,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #14",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/14.png",
+    "edition": 14,
+    "date": 1673631123669,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #15",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/15.png",
+    "edition": 15,
+    "date": 1673631123949,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #16",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/16.png",
+    "edition": 16,
+    "date": 1673631124269,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #17",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/17.png",
+    "edition": 17,
+    "date": 1673631124665,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #18",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/18.png",
+    "edition": 18,
+    "date": 1673631125029,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #19",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/19.png",
+    "edition": 19,
+    "date": 1673631125319,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #20",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/20.png",
+    "edition": 20,
+    "date": 1673631125667,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #21",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/21.png",
+    "edition": 21,
+    "date": 1673631125922,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #22",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/22.png",
+    "edition": 22,
+    "date": 1673631126551,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #23",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/23.png",
+    "edition": 23,
+    "date": 1673631126883,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #24",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/24.png",
+    "edition": 24,
+    "date": 1673631127516,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #25",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/25.png",
+    "edition": 25,
+    "date": 1673631127841,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #26",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/26.png",
+    "edition": 26,
+    "date": 1673631128307,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #27",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/27.png",
+    "edition": 27,
+    "date": 1673631128638,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #28",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/28.png",
+    "edition": 28,
+    "date": 1673631128943,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #29",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/29.png",
+    "edition": 29,
+    "date": 1673631129267,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #30",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/30.png",
+    "edition": 30,
+    "date": 1673631129572,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #31",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/31.png",
+    "edition": 31,
+    "date": 1673631129867,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #32",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/32.png",
+    "edition": 32,
+    "date": 1673631130166,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #33",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/33.png",
+    "edition": 33,
+    "date": 1673631130425,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #34",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/34.png",
+    "edition": 34,
+    "date": 1673631130805,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #35",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/35.png",
+    "edition": 35,
+    "date": 1673631131114,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #36",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/36.png",
+    "edition": 36,
+    "date": 1673631131713,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #37",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/37.png",
+    "edition": 37,
+    "date": 1673631132164,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #38",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/38.png",
+    "edition": 38,
+    "date": 1673631132518,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #39",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/39.png",
+    "edition": 39,
+    "date": 1673631132854,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #40",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/40.png",
+    "edition": 40,
+    "date": 1673631133139,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "GOLDEN CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #41",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/41.png",
+    "edition": 41,
+    "date": 1673631133447,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #42",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/42.png",
+    "edition": 42,
+    "date": 1673631133752,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #43",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/43.png",
+    "edition": 43,
+    "date": 1673631134247,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "ARMOUR"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #44",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/44.png",
+    "edition": 44,
+    "date": 1673631134595,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #45",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/45.png",
+    "edition": 45,
+    "date": 1673631135040,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #46",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/46.png",
+    "edition": 46,
+    "date": 1673631135375,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #47",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/47.png",
+    "edition": 47,
+    "date": 1673631135701,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #48",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/48.png",
+    "edition": 48,
+    "date": 1673631136016,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #49",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/49.png",
+    "edition": 49,
+    "date": 1673631136309,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #50",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/50.png",
+    "edition": 50,
+    "date": 1673631136655,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #51",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/51.png",
+    "edition": 51,
+    "date": 1673631136979,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #52",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/52.png",
+    "edition": 52,
+    "date": 1673631137276,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #53",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/53.png",
+    "edition": 53,
+    "date": 1673631137599,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #54",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/54.png",
+    "edition": 54,
+    "date": 1673631137933,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "ARMOUR"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #55",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/55.png",
+    "edition": 55,
+    "date": 1673631138874,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #56",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/56.png",
+    "edition": 56,
+    "date": 1673631139283,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #57",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/57.png",
+    "edition": 57,
+    "date": 1673631139674,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "GOLDEN CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #58",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/58.png",
+    "edition": 58,
+    "date": 1673631139973,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #59",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/59.png",
+    "edition": 59,
+    "date": 1673631140354,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #60",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/60.png",
+    "edition": 60,
+    "date": 1673631140691,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #61",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/61.png",
+    "edition": 61,
+    "date": 1673631140969,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #62",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/62.png",
+    "edition": 62,
+    "date": 1673631141331,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #63",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/63.png",
+    "edition": 63,
+    "date": 1673631141688,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #64",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/64.png",
+    "edition": 64,
+    "date": 1673631142114,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #65",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/65.png",
+    "edition": 65,
+    "date": 1673631142454,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #66",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/66.png",
+    "edition": 66,
+    "date": 1673631142758,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #67",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/67.png",
+    "edition": 67,
+    "date": 1673631143133,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #68",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/68.png",
+    "edition": 68,
+    "date": 1673631143403,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #69",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/69.png",
+    "edition": 69,
+    "date": 1673631143718,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #70",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/70.png",
+    "edition": 70,
+    "date": 1673631144003,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #71",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/71.png",
+    "edition": 71,
+    "date": 1673631144409,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #72",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/72.png",
+    "edition": 72,
+    "date": 1673631144818,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #73",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/73.png",
+    "edition": 73,
+    "date": 1673631145140,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #74",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/74.png",
+    "edition": 74,
+    "date": 1673631145518,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #75",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/75.png",
+    "edition": 75,
+    "date": 1673631145825,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #76",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/76.png",
+    "edition": 76,
+    "date": 1673631146131,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #77",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/77.png",
+    "edition": 77,
+    "date": 1673631146439,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #78",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/78.png",
+    "edition": 78,
+    "date": 1673631146782,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #79",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/79.png",
+    "edition": 79,
+    "date": 1673631147133,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #80",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/80.png",
+    "edition": 80,
+    "date": 1673631147509,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #81",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/81.png",
+    "edition": 81,
+    "date": 1673631147912,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #82",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/82.png",
+    "edition": 82,
+    "date": 1673631148264,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #83",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/83.png",
+    "edition": 83,
+    "date": 1673631148561,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "RED"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #84",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/84.png",
+    "edition": 84,
+    "date": 1673631148951,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #85",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/85.png",
+    "edition": 85,
+    "date": 1673631149248,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #86",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/86.png",
+    "edition": 86,
+    "date": 1673631149833,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "RAWN HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #87",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/87.png",
+    "edition": 87,
+    "date": 1673631150123,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #88",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/88.png",
+    "edition": 88,
+    "date": 1673631150420,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WINTER JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "GOLDEN CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #89",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/89.png",
+    "edition": 89,
+    "date": 1673631150748,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "CYBERPUNK"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #90",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/90.png",
+    "edition": 90,
+    "date": 1673631151107,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "BLACK SUIT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #91",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/91.png",
+    "edition": 91,
+    "date": 1673631151538,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #92",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/92.png",
+    "edition": 92,
+    "date": 1673631151826,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #93",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/93.png",
+    "edition": 93,
+    "date": 1673631152185,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SWEATERS"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "COWBOY HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #94",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/94.png",
+    "edition": 94,
+    "date": 1673631152565,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "LIGHT BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #95",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/95.png",
+    "edition": 95,
+    "date": 1673631152866,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SUIT"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT V2"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #96",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/96.png",
+    "edition": 96,
+    "date": 1673631153264,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "GRAY"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "ARMOUR"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "OLD CROWN"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "PIXEL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #97",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/97.png",
+    "edition": 97,
+    "date": 1673631153639,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "WHITE"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "NORMAL"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #98",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/98.png",
+    "edition": 98,
+    "date": 1673631153976,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PIRATES HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "SUN GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #99",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/99.png",
+    "edition": 99,
+    "date": 1673631154317,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "Black"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "WHITE SPORT JACKET"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "STEAMPUNK GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "TOSA COLLECTION #100",
+    "description": "3D ART CHARACTER OF TOSA",
+    "image": "REPLACE/100.png",
+    "edition": 100,
+    "date": 1673631154614,
+    "attributes": [
+      {
+        "trait_type": "BAGROUND",
+        "value": "DARK BLUE"
+      },
+      {
+        "trait_type": "BASE SKIN",
+        "value": "brown"
+      },
+      {
+        "trait_type": "CLOTHES",
+        "value": "SCHOOL"
+      },
+      {
+        "trait_type": "HAT",
+        "value": "PILOT HAT"
+      },
+      {
+        "trait_type": "GLASSES",
+        "value": "READING GLASSES"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
